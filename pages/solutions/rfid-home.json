@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "title": "checkout-basket",
+    "titleTag": "Checkout Basket | RFID Solutions | CW Suite",
+    "metaDescription": "With our RFID-powered checkout basket, effortlessly scan and pay for items, making checkout a breeze",
+    "pageName": "Checkout Basket"
+  },
+  "Hero": {
+    "title": "Unleashing the Potential of Tomorrow with SmartReads' RFID.",
+    "subtitle": "Discover the transformative power of RFID technology, tailored to drive efficiency, accuracy, and growth across diverse industries.",
+    "button": "Get Started",
+    "HeroImg": "/images/cheak-out-hero.webp",
+    "color": "rgba(16, 24, 40, 1)",
+    "buttonbg": "rgba(12, 23, 58, 1)",
+    "RFIDSolutions": {
+      "title": "Revolutionising Retail: RFID Solutions at the Forefront",
+      "description": "Crafting tomorrow's retail landscape with breakthrough RFID technologies."
+    }
+  },
+  "rfidData": [
+    {
+      "title": "RFID CHECK OUT",
+      "description": "Centralised swift payment systems",
+      "image": "/images/rfid-logo1.webp",
+      "buttonText": "LEARN MORE"
+    },
+    {
+      "title": "RFID SMART TROLLEY",
+      "description": "Real-time shopping cart tracking",
+      "image": "/images/rfid-logo2.webp",
+      "buttonText": "LEARN MORE"
+    },
+    {
+      "title": "RFID SMART TRAY",
+      "description": "Intelligent display and product tracking",
+      "image": "/images/rfid-logo3.webp",
+      "buttonText": "LEARN MORE"
+    },
+    {
+      "title": "RFID EAS GATES",
+      "description": "Advanced anti-theft and security gates",
+      "image": "/images/rfid-logo1.webp",
+      "buttonText": "LEARN MORE"
+    },
+    {
+      "title": "RFID TRIAL ROOM",
+      "description": "Live product details during fittings",
+      "image": "/images/rfid-logo1.webp",
+      "buttonText": "LEARN MORE"
+    },
+    {
+      "title": "WAREHOUSE MANAGEMENT",
+      "description": "Efficient warehouse operations",
+      "image": "/images/rfid-logo1.webp",
+      "buttonText": "LEARN MORE"
+    },
+    {
+      "title": "CENTRAL DEVICE MANAGEMENT",
+      "description": "Unified RFID device control",
+      "image": "/images/rfid-logo1.webp",
+      "buttonText": "LEARN MORE"
+    },
+    {
+      "title": "ASSET MANAGEMENT",
+      "description": "Precision in valuable asset tracking",
+      "image": "/images/rfid-logo1.webp",
+      "buttonText": "LEARN MORE"
+    },
+    {
+      "title": "RFID INVENTORY MANAGEMENT",
+      "description": "Proactive and accurate stock management",
+      "image": "/images/rfid-logo1.webp",
+      "buttonText": "LEARN MORE"
+    }
+  ],
+
+  "industryData": [
+    {
+      "title": "APPAREL AND FASHION",
+      "description": "Revolutionize fashion retail with real-time inventory and fitting solutions.",
+      "image": "/images/rfid-logo1.webp",
+      "button": "EXPLORE MORE"
+    },
+    {
+      "title": "SPORTS RETAIL",
+      "description": "Optimize sports equipment tracking and sales with RFID technology.",
+      "image": "/images/rfid-logo2.webp",
+      "button": "EXPLORE MORE"
+    },
+    {
+      "title": "JEWELLERY",
+      "description": "Ensure precision in jewellery management, from stock checks to exhibitions.",
+      "image": "/images/rfid-logo2.webp",
+      "button": "EXPLORE MORE"
+    },
+    {
+      "title": "AUTOMOTIVE",
+      "description": "Streamline parts tracking, sales, and services in the automotive sector.",
+      "image": "/images/rfid-logo2.webp",
+      "button": "EXPLORE MORE"
+    },
+    {
+      "title": "WAREHOUSING",
+      "description": "Achieve efficient storage, retrieval, and shipment with RFID-driven warehousing solutions.",
+      "image": "/images/rfid-logo2.webp",
+      "button": "EXPLORE MORE"
+    },
+    {
+      "title": "EDUCATION",
+      "description": "Manage assets, track books, and enhance security in educational institutions.",
+      "image": "/images/rfid-logo2.webp",
+      "button": "EXPLORE MORE"
+    },
+    {
+      "title": "MANUFACTURING",
+      "description": "Optimize production lines, track raw materials, and manage finished products seamlessly.",
+      "image": "/images/rfid-logo2.webp",
+      "button": "EXPLORE MORE"
+    }
+  ],
+
+  "productsSection": {
+    "title": "Our Premium RFID Products",
+    "description": "Explore our extensive range of RFID products, from tags to software, designed for versatility and performance.",
+    "buttonText": "Explore products"
+  },
+
+
+  "Industries": {
+    "title": "Industries We Serve",
+    "description": "Our RFID solutions cater to a wide range of industries, ensuring tailored applications for unique operational needs."
+  },
+
+
+  "productItems": [
+    {
+      "image": "/images/rfid-logo1.webp",
+      "title": "RFID tags",
+      "description": "Learn more"
+    },
+    {
+      "image": "/images/rfid-logo1.webp",
+      "title": "RFID Readers",
+      "description": "Learn more"
+    },
+    {
+      "image": "/images/rfid-logo1.webp",
+      "title": "RFID printers",
+      "description": "Learn more"
+    },
+    {
+      "image": "/images/rfid-logo1.webp",
+      "title": "Antennas and sensors",
+      "description": "Learn more"
+    },
+    {
+      "image": "/images/rfid-logo1.webp",
+      "title": "IOT software",
+      "description": "Learn more"
+    },
+    {
+      "image": "/images/rfid-logo1.webp",
+      "title": "Custom solutions",
+      "description": "Learn more"
+    }
+  ],
+
+  "RfidHomeFaqdata" :[
+    {
+      "questions":"How does SmartReads' RFID technology work?",
+      "answer":"SmartReads utilizes Radio-Frequency Identification (RFID) to transmit data from an item to a reader, providing real-time tracking and inventory management."
+    },
+    {
+      "questions":"What are the benefits of using SmartReads' solutions?",
+      "answer":"Our solutions offer real-time inventory tracking, enhanced customer experiences, efficient warehouse management, and advanced anti-theft systems, leading to increased sales and operational efficiency."
+    },
+    {
+      "questions":"How does SmartReads ensure the security of its solutions?",
+      "answer":"SmartReads incorporates advanced security measures, including encryption and secure data storage, to ensure the utmost protection of user data and inventory information."
+    },
+    {
+      "questions":"What is the subscription model for SmartReads' solutions?",
+      "answer":"We offer various subscription models tailored to the needs of different businesses, ranging from monthly to annual plans. Contact our sales team for detailed pricing."
+    },
+    {
+      "questions":"How can I get started with SmartReads' solutions?",
+      "answer":"To get started, simply reach out to our team through the contact form on our website or call us directly. We'll guide you through the setup and implementation process."
+    },
+    {
+      "questions":"Can SmartReads' solutions be customized to fit my specific business needs?",
+      "answer":"Absolutely! We pride ourselves on offering customizable solutions that can be tailored to meet the unique requirements of each business."
+    },
+    {
+      "questions":"How accurate is the inventory tracking with SmartReads?",
+      "answer":"Our RFID technology boasts a high read-rate, typically above 98%, ensuring accurate and real-time inventory tracking."
+    },
+    {
+      "questions":"Do I need any special equipment to implement SmartReads' solutions?",
+      "answer":"Our solutions are designed to be seamlessly integrated with most modern systems. However, specific requirements might vary based on the chosen solution. Our team will provide a detailed list upon consultation."
+    },
+    {
+      "questions":"How does SmartReads' technology integrate with existing POS systems?",
+      "answer":"SmartReads is designed to be compatible with a wide range of POS systems. Our technical team will assist with the integration process to ensure smooth operations."
+    },
+    {
+      "questions":"What kind of support does SmartReads offer to its clients?",
+      "answer":"We have a dedicated support team available to manage your calls, emails, and any issues you might encounter. Our goal is to ensure your operations run smoothly at all times."
+    },
+    {
+      "questions":"Are there any training resources available for SmartReads' solutions?",
+      "answer":"Yes, we provide comprehensive training resources and demos to help your team get acquainted with our solutions and maximize their benefits."
+    },
+    {
+      "questions":"How does SmartReads enhance the security of retail stores?",
+      "answer":"We offer EAS- Anti-Theft Systems, like the ForsMat detection mat, to make store entrances free of obstacles and enhance security."
+    },
+    {
+      "questions":"What makes SmartReads stand out from other RFID solution providers?",
+      "answer":"SmartReads offers a unique combination of solutions tailored to various industries, from retail to warehousing. Our commitment to efficiency, security, and customer experience, coupled with terrific pricing offerings, makes us a preferred choice."
+    },
+    {
+      "questions":"How can I schedule a demo with SmartReads?",
+      "answer":"You can reach out to us directly through the contact form on our website or call us to schedule a demo and see our solutions in action."
+    },
+    {
+      "questions":"How does SmartReads enhance the security of retail stores?",
+      "answer":"We offer EAS- Anti-Theft Systems, like the ForsMat detection mat, to make store entrances free of obstacles and enhance security.<br /> Where is CW information ??"
+    },
+    {
+      "questions":"What makes CW Suite's unified commerce platform unique?",
+      "answer":"CW Suite brings together all facets of a retailer's business, from inventory management to sales channels, into a cohesive, integrated system, streamlining operations and enhancing customer experiences."
+    },
+    {
+      "questions":"How does CW Suite empower store associates?",
+      "answer":"CW Suite equips store associates with tools and insights, enabling them to assist customers effectively, process transactions efficiently, and contribute significantly to the store's success."
+    },
+    {
+      "questions":"How does CW Suite cater to businesses of varying sizes?",
+      "answer":"Whether you're an SME, a large business, or an enterprise, CW Suite offers scalable solutions tailored to your needs, from improving efficiency and collaboration to leveraging the latest technology for a competitive edge."
+    },
+    {
+      "questions":"Can I select specific apps from CW Suite based on my business needs?",
+      "answer":"Absolutely! CW Suite offers a collection of apps designed to support various business aspects, allowing you to choose the tools that align best with your goals."
+    },
+    {
+      "questions":"How does CW Suite's POS system enhance transaction processing?",
+      "answer":"CW Suite's POS system not only processes transactions but also monitors inventory, tracks buying trends, ensures pricing accuracy, and gathers valuable marketing data."
+    },
+    {
+      "questions":"Is CW Suite's pricing model flexible?",
+      "answer":"Yes, CW Suite offers value-based pricing for all apps, ensuring you get more than what you pay for. Additionally, there are no long-term contracts, and apps work on a subscription basis with no hidden fees."
+    },
+    {
+      "questions":"What do users say about CW Suite's apps?",
+      "answer":"Our users appreciate the ease of use and value for money that CW Suite apps offer, as highlighted by Vrinda Singh, co-founder of Just In."
+    },
+    {
+      "questions":"How does CW Suite's Composer app benefit non-technical individuals?",
+      "answer":"Composer facilitates faster and efficient development, allowing non-technical individuals to build applications using visual drag-and-drop interfaces, pre-built components, and templates."
+    },
+    {
+      "questions":"Can CW Suite assist in managing multiple store locations or franchises?",
+      "answer":"Yes, CW Suite offers RFID Connect, a solution that enables businesses to efficiently manage inventory across multiple store locations or franchises from a centralized system."
+    }
+    ]
+}
